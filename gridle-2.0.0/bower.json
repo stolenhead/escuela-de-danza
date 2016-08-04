@@ -1,0 +1,27 @@
+{
+  "name": "gridle",
+  "version": "2.0.0",
+  "authors": [
+    "Olivier Bossel <olivier.bossel@gmail.com>"
+  ],
+  "description": "Gridle Gridle grid system",
+  "keywords": [
+    "gridle",
+    "grid",
+    "system",
+    "scss",
+    "sass",
+    "css"
+  ],
+  "license": "MIT",
+  "homepage": "http://gridle.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
