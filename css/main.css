@@ -1,1 +1,137 @@
-/* Inserta tu codigo aqui */
+.align{
+	text-align: center;
+}
+.margin{
+	text-decoration: none;
+	margin: 3%;
+	color: #D9D7D7;
+}
+.margin2{
+	color: #D9D7D7;
+}
+.back{
+	background-image: url(../img/dance_1.jpg);
+	margin-top: 1%;
+	background-position: 50% 10%;
+	height: 350px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.caja{
+	margin-top: 5%;
+	margin-left:8%;
+}
+.caja2{
+	margin-left: 30%;
+	height:300px;
+}
+.caja4{
+	background-image: url(../img/shoes_!.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: contain;
+	height: 350px;
+}
+.ca{
+	background-image:url(../img/textura_2.jpg);
+}
+.deco{
+    width: 20%;
+    margin-left: 35%;
+}
+h1{
+	font-size: 70px;
+}
+.boton{
+	padding: 5%;
+	background-color: #030D1B;
+	text-align: center;
+	margin-left: 25%;
+}
+.boton2{
+	padding: 3% 9% 3% 9%;
+	background-color: #192951;
+	text-align: center;
+	margin-top: 5%;
+	text-decoration: none;
+	color: #D9D7D7;
+	margin-left:-28%;
+
+}
+.po{
+	position: absolute;
+	margin-left: 30%;
+	margin-top: -71px;
+	padding: 2% 11% 2% 11%;
+	background-color: #192951;
+	color: #807783;
+}
+.ima{
+	background-image: url(../img/instructor_4.jpg);
+	height: 300px;
+	background-size: cover;
+	border:  1px solid black;
+   }
+.ima1{
+	background-image: url(../img/profesor_9.jpg);
+	height: 300px;
+	background-position: 50% 3%;
+	background-size: cover;
+	border:  1px solid black;
+}
+.sec{
+	height: 370px;
+	background-image:url(../img/textura_2.jpg);
+}
+.sec1{
+	height: 300px;
+	background-image:url(../img/textura_2.jpg);
+}
+.sec2{
+    	height: 450px;
+    	background-color: #192951;
+}
+.fondo{
+	padding: 5%;
+	box-sizing: border-box;
+}
+.iframe{
+	margin-top: 8%;
+	margin-left: 8%;
+	width: 80%;
+	height: 290px;
+}
+.zero{
+	padding: 0;
+	margin-top: 0%;
+	margin-bottom: 0%;
+}
+.inp1{
+	height: 20px;
+}
+.inp2{
+	height: 20px;
+}
+.inp3{
+	height: 90px;
+}
+.in{
+	position: relative;
+	width: 400px;
+	margin-top: 2%;
+}
+.image_buscar{
+	width: 2%;
+	width: 20px;
+	border: 0px;
+	position: relative;
+	top:1px;
+}
+input.search {
+	border: 0px;
+	width: 240px;
+	position: relative;
+	background: transparent;
+	outline: none;
+	bottom: 4px;
+	padding: 2px
