@@ -1,3 +1,9 @@
+h1{
+	font-size: 70px;
+}
+nav{
+	margin-bottom: 3%;
+}
 .align{
 	text-align: center;
 }
@@ -28,19 +34,19 @@
 .caja4{
 	background-image: url(../img/shoes_!.jpg);
 	background-repeat: no-repeat;
-	background-position: right;
-	background-size: contain;
-	height: 350px;
+	background-position: 90% -5%;
+	height: 530px;
 }
 .ca{
 	background-image:url(../img/textura_2.jpg);
 }
+.contac{
+	margin-left: 10%;
+	margin-top: 5%;
+}
 .deco{
     width: 20%;
     margin-left: 35%;
-}
-h1{
-	font-size: 70px;
 }
 .boton{
 	padding: 5%;
@@ -64,7 +70,23 @@ h1{
 	margin-top: -71px;
 	padding: 2% 11% 2% 11%;
 	background-color: #192951;
-	color: #807783;
+	text-align: center;
+	color: #9195AA;
+}
+.po2{
+	padding: 2% 11% 2% 11%;
+	background-color: #192951;
+	text-align: center;
+	color: #9195AA;
+	margin-top: 30px;
+	color: #D9D7D7;
+	width: 280px;
+}
+.po3{
+    text-decoration: none;
+    color: #807783;
+    padding: 2% 11% 2% 11%;
+	background-color: #192951;
 }
 .ima{
 	background-image: url(../img/instructor_4.jpg);
@@ -107,17 +129,18 @@ h1{
 	margin-bottom: 0%;
 }
 .inp1{
-	height: 20px;
+	height: 40px;
+	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
 }
 .inp2{
-	height: 20px;
+	height: 40px;
 }
 .inp3{
-	height: 90px;
+	height: 120px;
 }
 .in{
 	position: relative;
-	width: 400px;
+	width: 500px;
 	margin-top: 2%;
 }
 .image_buscar{
@@ -134,4 +157,11 @@ input.search {
 	background: transparent;
 	outline: none;
 	bottom: 4px;
-	padding: 2px
+	padding: 2px;
+}
+footer{
+	background-color:#192951; 
+	padding: 1% 0% 0.5% 2%;
+	margin-top: 4%;
+	color:#D9D7D7; 
+}
