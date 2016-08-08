@@ -9,6 +9,11 @@ nav{
 	margin: 3%;
 	color: #D9D7D7;
 }
+.margin4{
+	text-decoration: none;
+	margin: 3%;
+	color: #333333;
+}
 .caja{
 	margin-top: 5%;
 	margin-left:35%;
@@ -20,27 +25,19 @@ nav{
 	padding-bottom: 5px;
 	padding-top: 5%;
 }
-.inp1{
-	height: 40px;
-	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+.nombre{
+	border: solid 1px #bbb;
+	width: 45%;
+	margin: 2%;
+	padding: 0.5%;
 }
-.inp2{
-	height: 40px;
+.mensaje{
+	position: absolute;
+	margin: 0.5% 0 0 2.5%;
 }
-.inp3{
-	height: 120px;
-}
-.in{
-	position: relative;
-	width: 500px;
-	margin-top: 2%;
-}
-.image_buscar{
-	width: 2%;
-	width: 20px;
-	border: 0px;
-	position: relative;
-	top:1px;
+.colo{
+	color: black;
+	font-size: 20px;
 }
 input.search {
 	border: 0px;
@@ -58,7 +55,8 @@ input.search {
 	color: #9195AA;
 	margin-top: 30px;
 	color: #D9D7D7;
-	width: 280px;
+	width: 260px;
+	margin-left: 2%;
 }
 .po3{
     text-decoration: none;
@@ -91,11 +89,18 @@ footer{
 }
 .medio{
 	text-align: center;
-	background-color: gray;
+	background-color: rgba(0, 0, 0, 0.3);
+	margin: 6% 30%;
+	padding: 3px; 
+	margin-bottom: 100px;
 	width: 85%;
-	height: 120px;
-	margin-left: 9%;
+	height: 100px;
+	margin-left: 7%;
 	margin-top: 50%;
+}
+h2 , p{
+	color: white;
+	font-size: 14px;
 }
 .imagena{
 	background-size: cover;

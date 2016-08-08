@@ -15,6 +15,11 @@ nav{
 .margin2{
 	color: #D9D7D7;
 }
+.margin3{
+	color: #333333;
+	text-decoration: none;
+
+}
 .back{
 	background-image: url(../img/dance_1.jpg);
 	margin-top: 1%;
@@ -30,6 +35,14 @@ nav{
 .caja2{
 	margin-left: 30%;
 	height:300px;
+	font-family: "Montserrat:400,700" ,sans-serif;
+	font-size: 20px;
+}
+.caja3{
+	font-size: 40px;
+	font-style: italic;
+	font-family: "Montserrat:400,700" ,sans-serif;
+	margin-left: 14%;
 }
 .caja4{
 	background-image: url(../img/shoes_!.jpg);
@@ -52,7 +65,7 @@ nav{
 	padding: 5%;
 	background-color: #030D1B;
 	text-align: center;
-	margin-left: 25%;
+	margin-left: 2%;
 }
 .boton2{
 	padding: 3% 9% 3% 9%;
@@ -74,13 +87,14 @@ nav{
 	color: #9195AA;
 }
 .po2{
-	padding: 2% 11% 2% 11%;
+	padding: 2% 11% 2% 10%;
 	background-color: #192951;
 	text-align: center;
 	color: #9195AA;
 	margin-top: 30px;
 	color: #D9D7D7;
-	width: 280px;
+	width: 260px;
+	margin-left: 2%;
 }
 .po3{
     text-decoration: none;
@@ -128,40 +142,19 @@ nav{
 	margin-top: 0%;
 	margin-bottom: 0%;
 }
-.inp1{
-	height: 40px;
-	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
-}
-.inp2{
-	height: 40px;
-}
-.inp3{
-	height: 120px;
-}
-.in{
-	position: relative;
-	width: 500px;
-	margin-top: 2%;
-}
-.image_buscar{
-	width: 2%;
-	width: 20px;
-	border: 0px;
-	position: relative;
-	top:1px;
-}
-input.search {
-	border: 0px;
-	width: 240px;
-	position: relative;
-	background: transparent;
-	outline: none;
-	bottom: 4px;
-	padding: 2px;
-}
 footer{
 	background-color:#192951; 
 	padding: 1% 0% 0.5% 2%;
 	margin-top: 4%;
 	color:#D9D7D7; 
+}
+.nombre{
+	border: solid 1px #bbb;
+	width: 45%;
+	margin: 2%;
+	padding: 0.5%;
+}
+.mensaje{
+	position: absolute;
+	margin: 0.5% 0 0 2.5%;
 }
